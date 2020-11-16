@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Evolutionary Genomics and Bioinformatics
+- 🔭 I’m currently working on ... Evolutionary Genomics and Bioinformatics and working in the [Blanchard Lab](https://github.com/OurMicrobiome)
 - 🌱 I’m currently learning ... R and RStudio
 - 😄 Pronouns: ... she/her/hers
 - ⚡ Fun fact: ... I am a Chemistry and Applied Math major! 
