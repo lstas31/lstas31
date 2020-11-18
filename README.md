@@ -1,5 +1,3 @@
-!["IBB!"](https://github.com/lstas31/lstas31/blob/main/image1.jpg)
-
 ### Hi there 👋 Here is what I'm working on!
 
 
@@ -11,7 +9,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am a Chemistry and Applied Math major! 
 -->
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Recent
-[datasette-indieauth 0.3.2](https://github.com/lstas31/genomics-course) - 2020-11-18
+<!-- recent1 starts -->
+!["ISB!"](https://github.com/lstas31/lstas31/blob/main/image1.jpg)
+[Evolutionary Genomics and Bioinformatics Page](https://github.com/lstas31/genomics-course) - 2020.11.18
+
+### Other
+<!-- other1 starts -->
+[Blanchard Lab Page](https://github.com/OurMicrobiome) - 2020.11.18
