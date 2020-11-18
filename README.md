@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Evolutionary Genomics and Bioinformatics and working in the [Blanchard Lab](https://github.com/OurMicrobiome)
 - 🌱 I’m currently learning ... R and RStudio
 - 😄 Pronouns: ... she/her/hers
-- ⚡ Fun fact: ... I am a Chemistry and Applied Math major! 
+- ⚡ Fun fact: ... I am a senior [Chemistry](http://www.umass.edu/chemistry/) and [Applied Math](https://www.math.umass.edu/) major at [UMass](https://www.umass.edu/)! 
 -->
 
 <table><tr><td valign="top" width="50%">
