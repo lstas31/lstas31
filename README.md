@@ -14,6 +14,8 @@
 <!-- recent1 starts -->
 [Evolutionary Genomics and Bioinformatics Page](https://github.com/lstas31/genomics-course) - 2020.11.18
 
+This is the [website](https://lstas31.github.io/MyWebSite/index.html) for the course!
+
 [Latest Lab](https://github.com/lstas31/genomics-course/blob/master/lab10_lorenestasiuk.Rmd) - 2020.11.02
 
 [This is the Integrated Sciences Building!](https://www.cns.umass.edu/research/buildings-and-facilities/integrated-sciences-building)
